@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name" translatable="false">Story Application</string>
+
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="invalid_name">Name field cant be empty</string>
+    <string name="invalid_email">Email is not valid</string>
+    <string name="invalid_password">Password must be at least 8 characters</string>
+    <string name="form_login_error">Please fill the email and password as specified</string>
+    <string name="form_register_error">Please fill the name, email, and password as specified</string>
+    <string name="success_login">Login Success</string>
+    <string name="error_login">Login Error. Please try again</string>
+    <string name="logout_success">Logout Success</string>
+    <string name="register_success">Register Success</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Story Description</string>
+    <string name="submit">UPLOAD STORY</string>
+    <string name="create_story">Create Story</string>
+    <string name="data_invalid">Data Invalid</string>
+    <string name="camera_allowed">Camera Permision has been allowed. You able to upload story</string>
+    <string name="camera_not_allowed">Camera Permission is needed to use camera</string>
+    <string name="choose_picture">Choose a Picture</string>
+    <string name="label_login_welcome_desc">Please login to see your friends activities today</string>
+    <string name="create_warn">Please fill in your details as carefully as possible</string>
+    <string name="transition_photo" translatable="false">transition_photo</string>
+    <string name="transition_name" translatable="false">transition_name</string>
+    <string name="preview_picture">Preview Picture</string>
+    <string name="detail_picture">Detail Picture</string>
+    <string name="label_is_havent_account">Dont have account?</string>
+    <string name="tvRegister">Register here</string>
+    <string name="label_is_have_account">Already have account?</string>
+    <string name="act_to_login">Login here</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>
